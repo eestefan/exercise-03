@@ -2,7 +2,7 @@
 
 body {
   color: #222;
-  font-family: "Andale Mono", sans-serif;
+  font-family: "Arial", sans-serif;
   line-height: 1.25;
 }
 
@@ -16,7 +16,7 @@ a:hover {
 }
 
 h1, h2 {
-  /* Add font family here */
+  font-family: "Arial", sans-serif;
 }
 
 img {
