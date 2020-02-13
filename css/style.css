@@ -1,4 +1,4 @@
-/* Add @import Google Font here */
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
 
 body {
   color: #222;
@@ -16,7 +16,7 @@ a:hover {
 }
 
 h1, h2 {
-  /* Add font family here */
+  font-family: 'Roboto', sans-serif;
 }
 
 img {
